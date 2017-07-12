@@ -1,6 +1,7 @@
 # VEX-Mecanum-Wheel-ROBOTC
-The ROBOTC code files for the VEX Mecanum Wheel Robot shown in this image<br>
+
 <img src="INTERRACTIVE_RECONBOT.png"><p>
+The ROBOTC code files for the VEX Mecanum Wheel Robot shown in this image<br>
 Warning - unless your VEX robot is identical in configuration and components, then this code will not compile and run on your VEX Robot.<br>
 Meant as a share and tell experience.<br>
 If you see the phrase "Holonomic" in the code or comments, then that is not completely accurate.<br>
